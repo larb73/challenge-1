@@ -5,7 +5,7 @@
 Amigo secreto:
 En este desafío, se desarrollo una aplicación que permite al usuario ingresar N cantidad (previamente definida) de nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Añadir". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
@@ -36,19 +36,19 @@ Titulado "Amigo Secreto", permitira ejecutar un sorteo entre nombres de los amig
 # Características de la aplicación y demostración
 
 
-El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+El usuario registrará cada nombre mediante un campo de texto y un botón "Añadir". Los nombres ingresados se mostrarán en una lista que desplegará su contenido a medida que el usuario (añada) cada nombre y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
 ## :hammer:Funcionalidades del proyecto
 
 ![pantalla1](https://github.com/user-attachments/assets/5aa50bb9-51e0-4c65-9a00-858d4155a68e)
 
-- `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
-- ![AGREGA1](https://github.com/user-attachments/assets/6e54a2f0-3b58-4880-9dcc-52277d6d4ec0)
--
-- `Funcionalidad 2`: Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
--![validacionnombres](https://github.com/user-attachments/assets/d689efc6-9429-4a82-b37c-34afaf104d71)
-Ademas de validar cuando el array esta vacio.
-![validacionarrayvacio](https://github.com/user-attachments/assets/a2f0d014-f45f-4c60-9bb9-6b4def621f84)
+- `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto el cual se mostrará debajo del campo texto, en el mismo orden de cada nombre registrado al hacer clic en "Añadir".
+  ![AGREGA1](https://github.com/user-attachments/assets/6e54a2f0-3b58-4880-9dcc-52277d6d4ec0)
+
+- `Funcionalidad 2`: Validar entrada (campo de entrada con datos) : Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido
+  ![validacionnombres](https://github.com/user-attachments/assets/d689efc6-9429-4a82-b37c-34afaf104d71)
+    Validar (array con registros): Ademas de validar cuando el array esta vacio, mostrando el alerta "no hay amigos disponibles"
+  ![validacionarrayvacio](https://github.com/user-attachments/assets/a2f0d014-f45f-4c60-9bb9-6b4def621f84)
 
 - `Funcionalidad 3`: Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 

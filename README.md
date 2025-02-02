@@ -42,19 +42,19 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 
 ![pantalla1](https://github.com/user-attachments/assets/5aa50bb9-51e0-4c65-9a00-858d4155a68e)
 
-- `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto el cual se mostrará debajo del campo texto, en el mismo orden de cada nombre registrado al hacer clic en "Añadir".
+- `Funcionalidad `1️⃣: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto el cual se mostrará debajo del campo texto, en el mismo orden de cada nombre registrado al hacer clic en "Añadir".
   ![AGREGA1](https://github.com/user-attachments/assets/6e54a2f0-3b58-4880-9dcc-52277d6d4ec0)
 
-- `Funcionalidad 2`: Validar entrada (campo de entrada con datos) : Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido
+- `Funcionalidad `2️⃣:: Validar entrada (campo de entrada con datos) : Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido
   ![validacionnombres](https://github.com/user-attachments/assets/d689efc6-9429-4a82-b37c-34afaf104d71)
-    Validar (array con registros): Ademas de validar cuando el array esta vacio, mostrando el alerta "no hay amigos disponibles"
+   :raising_hand:  Validar (array con registros): Ademas de validar cuando el array esta vacio, mostrando el alerta "no hay amigos disponibles"
   ![validacionarrayvacio](https://github.com/user-attachments/assets/a2f0d014-f45f-4c60-9bb9-6b4def621f84)
 
-- `Funcionalidad 3`: Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- `Funcionalidad 3️⃣:`: Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
 -  ![AGREGA4](https://github.com/user-attachments/assets/2bbbc3a5-177d-4b1c-b389-7183203889ef)
 
-- `Funcionalidad 4`:Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+- `Funcionalidad`4️⃣:Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 - ![SORTEA](https://github.com/user-attachments/assets/e0b342d9-3cfc-4d74-bc3b-7b05cc0c8870)
 

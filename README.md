@@ -95,7 +95,7 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 
-## personas contribuyentes (ALURA LATAM ORACLE ONE 8 y Desarrolladores: 
+## personas contribuyentes (ALURA LATAM ORACLE ONE 8) y Desarrolladores: 
 
 Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![logo-aluraespanhol](https://github.com/user-attachments/assets/35042ca3-ae6f-4d44-8cd0-2dc76fb8874d)![alura]
@@ -107,5 +107,7 @@ Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style
 Ing.Laura Rodriguez
 
 ## Conclusión
-Sin duda es tipo de dinamica, es un reto que pone a prueba la perseverancia del estudiante, retando y entrenando los conocimientos adquiridos a traves de la metodologia de estudio virtual que ofrece el curso Principiante en Programación G8 - ONE desde la plataforma de ALURA LATAM. Hemos puesto en practica en la plataforma Git/GitHub con la familiarizacion de los comandos pertinentes para habilitar los repositorios remotos; asi como la implementacion y dar realce a la importancia del archivo README para el desarrollo de este tipo de automatizacion.
-
+Sin duda es tipo de dinamica para la evaluación me resulta innovadora, es un reto que pone a prueba la perseverancia del estudiante (me siento satisfecha con el resultado), retando y entrenando los conocimientos adquiridos a traves de la metodologia de estudio virtual que ofrece el curso Principiante en Programación G8 - ONE desde la plataforma de ALURA LATAM. Hemos puesto en practica en la plataforma Git/GitHub con la familiarizacion de los comandos pertinentes para habilitar los repositorios remotos; asi como la implementacion y dar realce a la importancia del archivo README para el desarrollo de este tipo de automatizacion.
+Ciertamente, la logica de programacion permite plantear otros posibles parametros que bien al incluirlo daran mejora a la aplicacion:
+ 1. Limitar el numero de nombres, ofrecer un rango de amigos al usuario.
+ 2. Incluir el botón de reinicio, que permitiria al usuario hacer borron y cuenta nueva de amigos por elegir.

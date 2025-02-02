@@ -23,8 +23,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 * [Conclusión](#Conclusión)
 
 # Descripción del proyecto
-El proyecto representa el primer codigo de evaluacion para los actuales estudiantes del curso de ALURA/ORACLE ONE8, ofrece la oportunidad de aplicar, enasayar , practicar los conocimientos impartidos durante el primer periodo de clases. 
-Titulado "Amigo Secreto", permitira ejecutar un sorteo entre una maximo de posibles candidatos que el usuario debera registrar.
+El proyecto representa el primer codigo de evaluacion para los actuales estudiantes del curso de ALURA/ORACLE ONE8, ofrece la oportunidad de aplicar, enasayar , practicar los conocimientos impartidos durante el primer periodo de clases.El cual incluye manejo de Arrays, funciones basicas: input, alert, bucles entre otras. Sumado a la familiarizacion con el correcto manejo de Git y GitHub.
+Titulado "Amigo Secreto", permitira ejecutar un sorteo entre nombres de los amigos que el usuario debera registrar.
 
 # Estado del proyecto
 
@@ -34,11 +34,30 @@ Titulado "Amigo Secreto", permitira ejecutar un sorteo entre una maximo de posib
 </h4>
 
 # Características de la aplicación y demostración
+
+
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+
+![pantalla1](https://github.com/user-attachments/assets/5aa50bb9-51e0-4c65-9a00-858d4155a68e)
+
+- `Funcionalidad 1`: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
+- ![AGREGA1](https://github.com/user-attachments/assets/6e54a2f0-3b58-4880-9dcc-52277d6d4ec0)
+-
 - `Funcionalidad 2`: Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+-![validacionnombres](https://github.com/user-attachments/assets/d689efc6-9429-4a82-b37c-34afaf104d71)
+Ademas de validar cuando el array esta vacio.
+![validacionarrayvacio](https://github.com/user-attachments/assets/a2f0d014-f45f-4c60-9bb9-6b4def621f84)
+
 - `Funcionalidad 3`: Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
+-  ![AGREGA4](https://github.com/user-attachments/assets/2bbbc3a5-177d-4b1c-b389-7183203889ef)
+
 - `Funcionalidad 4`:Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+- ![SORTEA](https://github.com/user-attachments/assets/e0b342d9-3cfc-4d74-bc3b-7b05cc0c8870)
+
 
 # Acceso proyecto
 \## 📁 Acceso al proyecto

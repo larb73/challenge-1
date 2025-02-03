@@ -100,13 +100,12 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![logo-aluraespanhol](https://github.com/user-attachments/assets/35042ca3-ae6f-4d44-8cd0-2dc76fb8874d)![alura]
 
-[<img src="https://avatars.githubusercontent.com/u/75937414?s=48&v=4)" width=115><br><sub>Jose Gonzales</sub>](https://github.com/JoseDarioGonzalezCha/JoseDarioGonzalezCha) | [<img src="https://avatars.githubusercontent.com/u/29123800?v=4" width=115><br><sub>Christian Velasco</sub>]([https://github.com/christianpva)) | [<img src="https://avatars.githubusercontent.com/u/4803845?v=4" width=115><br><sub>Leonardo Castillo</sub>](https://github.com/ljcl79) |
+[<img src="https://avatars.githubusercontent.com/u/75937414?s=48&v=4)" width=115><br><sub>Jose Gonzales</sub>](https://github.com/JoseDarioGonzalezCha/JoseDarioGonzalezCha) | [<img src="https://avatars.githubusercontent.com/u/29123800?v=4" width=115><br><sub>Christian Velasco</sub>]([https://github.com/christianpva) | [<img src="https://avatars.githubusercontent.com/u/4803845?v=4" width=115><br><sub>Leonardo Castillo</sub>](https://github.com/ljcl79) |
 | :---: | :---: | :---: |
 
 ## Desarrollador Trainer
-[<img src="https://avatars.githubusercontent.com/u/75937414?s=48&v=4)" width=115><br><sub>Jose Gonzales</sub>](https://github.com/JoseDarioGonzalezCha/JoseDarioGonzalezCha)
-https://github.com/larb73
-Ing.Laura Rodriguez
+
+[<img src="https://avatars.githubusercontent.com/u/195217447?u=318a13538e9b8b470417661ac390c35f851dbf32&v=4" width=115><br><sub>Laura Rodriguez</sub>](https://github.com/larb73)
 
 ## Conclusión
 Sin duda es tipo de dinamica para la evaluación me resulta innovadora, es un reto que pone a prueba la perseverancia del estudiante (me siento satisfecha con el resultado), retando y entrenando los conocimientos adquiridos a traves de la metodologia de estudio virtual que ofrece el curso Principiante en Programación G8 - ONE desde la plataforma de ALURA LATAM. Hemos puesto en practica en la plataforma Git/GitHub con la familiarizacion de los comandos pertinentes para habilitar los repositorios remotos; asi como la implementacion y dar realce a la importancia del archivo README para el desarrollo de este tipo de automatizacion.

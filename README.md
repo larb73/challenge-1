@@ -20,7 +20,6 @@ En este desafío el usuario logrará sortear o elegir un nombre entre varios reg
 * [Tecnologías utilizadas](#Tecnologías-utilizadas)
 * [Personas Contribuyentes](#personas-contribuyentes)
 * [Desarrollador del Proyecto](#Desarrollador)
-* [Licencia](#Licencia)
 * [Conclusión](#Conclusión)
 
 # Descripción del proyecto
@@ -35,7 +34,9 @@ Permite ejecutar un sorteo entre los datos o nombres que el usuario registrará.
 
 <h4 align="center">
   💂‍♂️ :guardsman:
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto en Desarrollo:construction:
+
+ Nota: Si bien la aplicación ya cumple las pautas principales solicitadas. Queda aún un par de mejoras por agregar.
 </h4>
 
 # Características de la aplicación y demostración
@@ -60,12 +61,12 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 - `Funcionalidad 3️⃣`Visualizar la lista:
   Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
--  ![AGREGA4](https://github.com/user-attachments/assets/2bbbc3a5-177d-4b1c-b389-7183203889ef)
+  ![AGREGA4](https://github.com/user-attachments/assets/2bbbc3a5-177d-4b1c-b389-7183203889ef)
 
 - `Funcionalidad`4️⃣ Sorteo aleatorio:
   Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-- ![SORTEA](https://github.com/user-attachments/assets/e0b342d9-3cfc-4d74-bc3b-7b05cc0c8870)
+ ![SORTEA](https://github.com/user-attachments/assets/e0b342d9-3cfc-4d74-bc3b-7b05cc0c8870)
 
 
 # Acceso proyecto
@@ -95,7 +96,7 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 
-## personas contribuyentes (ALURA LATAM ORACLE ONE 8) y Desarrolladores: 
+## :raising_hand: Personas contribuyentes (ALURA LATAM ORACLE ONE 8) y Desarrolladores: 
 
 Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![logo-aluraespanhol](https://github.com/user-attachments/assets/35042ca3-ae6f-4d44-8cd0-2dc76fb8874d)![alura]
@@ -108,7 +109,10 @@ Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style
 [<img src="https://avatars.githubusercontent.com/u/195217447?u=318a13538e9b8b470417661ac390c35f851dbf32&v=4" width=115><br><sub>Laura Rodriguez</sub>](https://github.com/larb73)
 
 ## Conclusión
-Sin duda es tipo de dinamica para la evaluación me resulta innovadora, es un reto que pone a prueba la perseverancia del estudiante (me siento satisfecha con el resultado), retando y entrenando los conocimientos adquiridos a traves de la metodologia de estudio virtual que ofrece el curso Principiante en Programación G8 - ONE desde la plataforma de ALURA LATAM. Hemos puesto en practica en la plataforma Git/GitHub con la familiarizacion de los comandos pertinentes para habilitar los repositorios remotos; asi como la implementacion y dar realce a la importancia del archivo README para el desarrollo de este tipo de automatizacion.
-Ciertamente, la logica de programacion permite plantear otros posibles parametros que bien al incluirlo daran mejora a la aplicacion:
+Sin duda es tipo de dinamica para la evaluación me resulta innovadora, es un reto que pone a prueba la perseverancia del estudiante (me siento satisfecha con el resultado), retando y entrenando los conocimientos adquiridos a traves de la metodologia de estudio virtual que ofrece el curso Principiante en Programación G8 - ONE desde la plataforma de ALURA LATAM. 
+Se ha puesto en practica comandos y procesos de la plataforma Git/GitHub con la familiarizacion de los comandos pertinentes para habilitar los repositorios remotos; asi como la implementacion y dar realce a la importancia del archivo README para el desarrollo de este tipo de automatizacion.
+Ciertamente, la logica de programacion aplicada permite plantear otros posibles parametros que bien al incluirlo daran mejora a la aplicacion, para considerar:
  1. Limitar el numero de nombres, ofrecer un rango de amigos al usuario.
  2. Incluir el botón de reinicio, que permitiria al usuario hacer borron y cuenta nueva de amigos por elegir.
+
+Exitos para todos, agradecimientos infinitos a todos los involucrados.

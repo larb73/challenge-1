@@ -104,6 +104,8 @@ Alura Latam  / Oracle ![Oracle](https://img.shields.io/badge/Oracle-F80000?style
 | :---: | :---: | :---: |
 
 ## Desarrollador Trainer
+[<img src="https://avatars.githubusercontent.com/u/75937414?s=48&v=4)" width=115><br><sub>Jose Gonzales</sub>](https://github.com/JoseDarioGonzalezCha/JoseDarioGonzalezCha)
+https://github.com/larb73
 Ing.Laura Rodriguez
 
 ## Conclusión

@@ -2,7 +2,7 @@
 
 <h1 aling="center">1er Challenger: "Amigo secreto"</h1>
 
-![PORTADA](https://github.com/user-attachments/assets/50f2beac-f64e-4869-bd10-3f467d4dbb41)
+![PORTADA_nueva](https://github.com/user-attachments/assets/0352171c-87ae-4588-a7c5-d5f30a6509a2)
 
 Amigo secreto:
 En este desafío el usuario logrará sortear o elegir un nombre entre varios registros en un campo texto y un botón "AÑADIR". El nombre será escogido de manera aletoria, para lo cual se desarrollo un codigo con lenguaje JavaScript que permite al usuario ingresar "N" cantidad de nombres (amigos secretos) almacenados en una funcion array y posteriormente agregados a una lista, que permitirá mostrar su contenido y finalmente a petición del mismo usuario con el botón "SORTEAR AMIGO" realizar un sorteo aleatorio y mostrando el resultado en pantalla de quien es el "amigo seleccionado: XXXX".
@@ -71,11 +71,11 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 
 # Acceso proyecto
 \## 📁 Acceso al proyecto
-
+PENDIENTE OJO
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
 \## 🛠️ Abre y ejecuta el proyecto
-
+PENDIENTE OJO
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
 # 🛠️ Tecnologías utilizadas 

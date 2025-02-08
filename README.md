@@ -71,12 +71,7 @@ El usuario registrará cada nombre mediante un campo de texto y un botón "Añad
 
 # Acceso proyecto
 \## 📁 Acceso al proyecto
-PENDIENTE OJO
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
-
-\## 🛠️ Abre y ejecuta el proyecto
-PENDIENTE OJO
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+La aplicacion desarrollada en JavaScript consta de los archivos base para ejecutarlos desde el navegador. Una vez que hayas descargado el repositorio completo ejecutando index.html podràs interactuar con la aplicacion de sortear el amigo secreto.
 
 # 🛠️ Tecnologías utilizadas 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
